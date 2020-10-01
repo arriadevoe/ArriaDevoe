@@ -1,11 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Guillermo, a software developer with a strong background in environmental restoration and non-profits. 
+I'm Guillermo, a software developer with a strong background in environmental restoration and non-profits. At the moment I'm a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation while working on side projects. I'm also passionate about daily learning, progressive web apps, data engineering, headless content management systems, regenerative living, and strength training. 
 
 Currently working on a secure API to connect private and non-profit organizations that will help reduce homelessness in Washington state.
 
+### 📫 How to reach me:
+
 [guillermoarriadevoe.com](https://guillermoarriadevoe.com/)
-https://www.linkedin.com/in/guillermo-arria-devoe/
+[LinkedIn](https://www.linkedin.com/in/guillermo-arria-devoe/)
+[Instagram](https://www.instagram.com/guillearria/)
 
 [![arriadevoe's github stats](https://github-readme-stats.vercel.app/api?username=arriadevoe)](https://github.com/arriadevoe/github-readme-stats)
 
@@ -19,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
