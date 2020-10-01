@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Guillermo, a software developer with a strong background in environmental restoration and non-profits. 
+
+Currently working on a secure API to connect private and non-profit organizations that will help reduce homelessness in Washington state.
+
+[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)
+https://www.linkedin.com/in/guillermo-arria-devoe/
+
 <!--
 **arriadevoe/ArriaDevoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
