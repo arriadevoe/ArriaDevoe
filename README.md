@@ -7,6 +7,8 @@ Currently working on a secure API to connect private and non-profit organization
 [guillermoarriadevoe.com](https://guillermoarriadevoe.com/)
 https://www.linkedin.com/in/guillermo-arria-devoe/
 
+[![arriadevoe's github stats](https://github-readme-stats.vercel.app/api?username=arriadevoe)](https://github.com/arriadevoe/github-readme-stats)
+
 <!--
 **arriadevoe/ArriaDevoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
