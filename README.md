@@ -6,8 +6,8 @@ Currently working on a secure API to connect private and non-profit organization
 
 ### 📫 How to reach me:
 
-[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)
-[LinkedIn](https://www.linkedin.com/in/guillermo-arria-devoe/)
+[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)</br>
+[LinkedIn](https://www.linkedin.com/in/guillermo-arria-devoe/)</br>
 [Instagram](https://www.instagram.com/guillearria/)
 
 [![arriadevoe's github stats](https://github-readme-stats.vercel.app/api?username=arriadevoe)](https://github.com/arriadevoe/github-readme-stats)
