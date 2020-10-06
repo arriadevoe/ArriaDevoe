@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s)
 
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://www.youtube.com/watch?v=Ao5uiWUzMx4)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://www.youtube.com/watch?v=LKbk2ak0CQs)
