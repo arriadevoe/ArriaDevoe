@@ -1,28 +1,18 @@
-# Hi there 👋
+<img src="https://github.com/arriadevoe/arriadevoe/blob/master/landscape.jpg" alt="landscape"/>
 
-I'm Guillermo, a software developer with a strong background in environmental restoration and non-profits. At the moment I'm a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation while working on side projects. I'm also passionate about daily learning, progressive web apps, data engineering, headless content management systems, regenerative living, and strength training. 
+[![linkedin badge](https://img.shields.io/badge/Guillermo_Arria--Devoe-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/@guillearria-30302f?style=flat&logo=instagram)](https://www.instagram.com/guillearria/)
 
-Currently working on a secure API to connect private and non-profit organizations that will help reduce homelessness in Washington state.
+---
 
-### 📫 How to reach me:
+### Hi there 👋
 
-[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)</br>
-[LinkedIn](https://www.linkedin.com/in/guillermo-arria-devoe/)</br>
-[Instagram](https://www.instagram.com/guillearria/)
+I'm Guillermo, a software engineer with over three years of non-profit and mixed project management experience. At the moment I'm a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation while working on side projects. 
+
+I'm passionate about: progressive web apps, data engineering, headless content management systems, daily learning, regenerative building design, strength training, and yoga.
+
+Currently working on a secure API to connect private and non-profit organizations to help reduce homelessness in Washington state.
+
+Check out my portfolio: [guillermoarriadevoe.com](https://guillermoarriadevoe.com/)</br>
 
 [![arriadevoe's github stats](https://github-readme-stats.vercel.app/api?username=arriadevoe)](https://github.com/arriadevoe/github-readme-stats)
 
-<!--
-**arriadevoe/ArriaDevoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
