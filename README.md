@@ -8,7 +8,7 @@
 
 🙇‍♂️ I'm Guillermo, a software engineer with over three years of non-profit and mixed project management experience. At the moment I'm a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation while working on side projects. 
 
-💭 I'm passionate about: progressive web apps, data engineering, headless content management systems, imbalanced classification problems, NLP, learning, unlearning, regenerative building design, strength training, and yoga.
+💙 I'm passionate about: progressive web apps, data engineering, headless content management systems, imbalanced classification, natural language processing, learning, unlearning, regenerative building design, strength training, and yoga.
 
 🤝 Currently working on a secure API to connect private and non-profit organizations to help reduce homelessness in Washington state.
 
