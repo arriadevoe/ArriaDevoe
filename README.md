@@ -14,5 +14,4 @@ Currently working on a secure API to connect private and non-profit organization
 
 Check out my portfolio: [guillermoarriadevoe.com](https://guillermoarriadevoe.com/)</br>
 
-[![arriadevoe's github stats](https://github-readme-stats.vercel.app/api?username=arriadevoe)](https://github.com/arriadevoe/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe)](https://github.com/arriadevoe/github-readme-stats)
