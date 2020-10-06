@@ -1,4 +1,4 @@
-<img src="https://github.com/arriadevoe/arriadevoe/blob/master/landscape.jpg" alt="landscape" style="borderRadius: 5px"/>
+<img src="https://github.com/arriadevoe/arriadevoe/blob/master/landscape.jpg" alt="landscape" style="border-radius: 5px"/>
 
 [![linkedin badge](https://img.shields.io/badge/Guillermo_Arria--Devoe-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/@guillearria-30302f?style=flat&logo=instagram)](https://www.instagram.com/guillearria/)
 
@@ -12,6 +12,6 @@
 
 🤝 Currently working on a secure API to connect private and non-profit organizations to help reduce homelessness in Washington state.
 
-🌱 Explore my other projects on GitHub or through my portfolio: [guillermoarriadevoe.com](https://guillermoarriadevoe.com/)</br>
+🌱 Explore my other projects on GitHub or through my portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://github.com/arriadevoe/github-readme-stats)
