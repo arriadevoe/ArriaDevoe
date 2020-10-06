@@ -12,6 +12,6 @@
 
 🤝 Currently working on a secure API to connect private and non-profit organizations to help reduce homelessness in Washington state.
 
-🌱 Check out my portfolio: [guillermoarriadevoe.com](https://guillermoarriadevoe.com/)</br>
+🌱 Explore my other projects on GitHub or through my portfolio: [guillermoarriadevoe.com](https://guillermoarriadevoe.com/)</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://github.com/arriadevoe/github-readme-stats)
