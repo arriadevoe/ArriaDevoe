@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=oZame1Brs9k" target="_blank"><img src="https://github.com/arriadevoe/arriadevoe/blob/master/forest-layers.png" alt="forest-layers"/></a>
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/guillearria/)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/Instagram-F1E05A?style=flat&logo=instagram)](https://www.instagram.com/guillearria/)
 ---
 
 ### Hi there, I'm Guillermo 👋
@@ -16,3 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://www.youtube.com/watch?v=Ao5uiWUzMx4)
+
+
