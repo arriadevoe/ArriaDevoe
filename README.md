@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=oZame1Brs9k" target="_blank"><img src="https://github.com/arriadevoe/arriadevoe/blob/master/forest-layers.jpg" alt="forest-layers"/></a>
+<a href="https://www.youtube.com/watch?v=oZame1Brs9k" target="_blank"><img src="https://github.com/arriadevoe/arriadevoe/blob/master/forest-layers.png" alt="forest-layers"/></a>
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/guillearria/)
 ---
