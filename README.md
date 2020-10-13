@@ -13,4 +13,4 @@
 
 <!-- 🌱 Explore my other projects on GitHub or through my portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**</br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://www.youtube.com/watch?v=ffzjh7nl3Lg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s)
