@@ -7,9 +7,9 @@
 
 🙇‍♂️ A software engineer with over three years of non-profit and mixed project management experience. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
 
-💙 Some things I like: agile and design thinking, data-driven design, progressive web apps, automation, data architecture and analysis, serverless backends, headless content management, native and edible forestry, surfing, traveling, and yoga.
+💙 Some things I like: agile and design thinking, data cleaning, progressive web apps, automation, data architecture and analysis, microservices, headless content management, native and edible forestry, surfing, traveling, and yoga.
 
-🤝 Currently developing a secure data sharing service to prevent homelessness in Washington state.
+🤝 Currently working pro-bono for Family Promise of Spoke in an effort to prevent homelessness in Washington state.
 
 <!-- 🌱 Explore my portfolio application: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**</br> -->
 
