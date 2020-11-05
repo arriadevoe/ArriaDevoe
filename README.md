@@ -13,4 +13,4 @@
 
 🌱 Visit my portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=discogerm&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s)
