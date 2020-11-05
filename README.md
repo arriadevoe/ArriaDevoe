@@ -11,6 +11,6 @@
 
 🏡 Currently working pro-bono for Family Promise of Spoke in an effort to prevent homelessness in Washington state.
 
-<!-- 🌱 Explore my portfolio application: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**</br> -->
+🌱 Visit my portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=discogerm&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s)
