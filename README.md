@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Guillermo
 
-🙇‍♂️ A software engineer with over three years of non-profit and mixed project management experience. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
+🙇‍♂️ A software engineer with over three years of experience in non-profit organizations and project management. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
 
 💙 Some things I like: agile, design thinking, data cleaning and wrangling, progressive web apps, automation, data architecture design, microservices, headless content management, native and edible forestry, surfing, traveling, and yoga.
 
