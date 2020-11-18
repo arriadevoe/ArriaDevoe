@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=oZame1Brs9k" target="_blank"><img src="https://github.com/arriadevoe/arriadevoe/blob/master/forest-layers.png" alt="forest-layers"/></a>
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/Instagram-555555?style=flat&logo=instagram)](https://www.instagram.com/disco.germ/) [![inaturalist badge](https://img.shields.io/badge/iNaturalist-FAFAFA?style=flat&logo=snapcraft)](https://www.inaturalist.org/observations?place_id=any&subview=grid&user_id=guillermoarriadevoe) 
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/Instagram-555555?style=flat&logo=instagram)](https://www.instagram.com/arriadevoe/) [![inaturalist badge](https://img.shields.io/badge/iNaturalist-FAFAFA?style=flat&logo=snapcraft)](https://www.inaturalist.org/observations?place_id=any&subview=grid&user_id=guillermoarriadevoe) 
 ---
 
 ### Hi there, I'm Guillermo
