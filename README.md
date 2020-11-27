@@ -9,7 +9,7 @@
 
 💙 Some things I like: agile, design thinking, data cleaning and wrangling, progressive web apps, data architecture design, cloud computing, headless content management, native and edible forestry, surfing, traveling, and yoga.
 
-🏡 Currently providing data engineering services for Family Promise of Spoke in an effort to prevent homelessness in Washington state.
+🏡 Currently serving as Data Science Intern for Family Promise of Spoke in an effort to prevent homelessness in Washington state.
 
 🌱 Visit my portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**
 
