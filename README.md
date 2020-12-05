@@ -5,12 +5,12 @@
 
 ### Hi there, I'm Guillermo
 
-🙇‍♂️ A software engineer with over three years of experience in non-profit project management and two years developing software. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
+🙇‍♂️ A developer with over three years of experience in non-profit project management and two years building software. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
 
-💙 Some things I like: agile, design thinking, data cleaning and wrangling, progressive web apps, data architecture design, cloud computing, headless content management, native and edible forestry, surfing, traveling, and yoga.
+💙 Interested in: environmental conservation, forestry, mental health, psychedelic-assisted psychotherapy, design thinking, agile software development, cloud computing, big data, surfing, yoga, and the great outdoors.
 
-🏡 Currently serving as Data Science Intern for Family Promise of Spoke in an effort to prevent homelessness in Washington state.
+🏡 I’m collaborating with Family Promise of Spokane to reduce family homelessness in Washington state. Our data team is modernizing the guest intake system using staff and executive visualization dashboards, implementing machine learning to better direct guest resources, and building an API for select private organizations to safely access guest data.
 
-🌱 Visit my portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**
+🌱 Portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriadevoe&hide=jupyter+notebook&layout=compact)](https://www.youtube.com/watch?v=QMyvS6VDh0g&t=1117s)
