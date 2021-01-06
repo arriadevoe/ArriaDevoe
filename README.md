@@ -5,9 +5,9 @@
 
 ### Hi there, I'm Guillermo
 
-🙇‍♂️ A developer with over three years of experience in non-profit project management and two years building software. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
+🙇‍♂️ A software developer with over four years of experience in team leadership. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
 
-💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud computing, big data, psychedelic-assisted psychotherapy, surfing, yoga, and the great outdoors.
+💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud computing, big data, surfing, yoga, and the great outdoors.
 
 🏡 What I'm doing now: collaborating with Family Promise of Spokane to reduce family homelessness in Washington state. Our data team is modernizing the guest intake system with staff visualization dashboards, implementing machine learning to better direct guest resources, and building an API for select private organizations to safely access historical guest data.
 
