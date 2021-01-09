@@ -3,13 +3,13 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-arria-devoe/) [![instagram badge](https://img.shields.io/badge/Instagram-555555?style=flat&logo=instagram)](https://www.instagram.com/arriadevoe/) [![inaturalist badge](https://img.shields.io/badge/iNaturalist-FAFAFA?style=flat&logo=snapcraft)](https://www.inaturalist.org/observations?place_id=any&subview=grid&user_id=guillermoarriadevoe) 
 ---
 
-### Hi there, I'm Guillermo
+### Hello there, I'm Guillermo
 
-🙇‍♂️ A software developer with over four years of experience in team leadership. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
+🙇‍♂️ A software developer with over four years of experience leading teams. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
 
 💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud computing, big data, surfing, yoga, and the great outdoors.
 
-🏡 What I'm doing now: collaborating with Family Promise of Spokane to reduce family homelessness in Washington state. Our data team is modernizing the guest intake system with staff visualization dashboards, implementing machine learning to better direct guest resources, and building an API for select private organizations to safely access historical guest data.
+🏡 What I'm doing now: collaborating with Family Promise of Spokane to reduce family homelessness in Washington state. Our team is modernizing the guest intake system with executive dashboards, implementing machine learning to better direct guest resources, and building an API for select private organizations to securely access historical guest data.
 
 🌱 Portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**
 
