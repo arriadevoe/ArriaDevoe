@@ -5,7 +5,7 @@
 
 ### Hello there, I'm Guillermo
 
-🙇‍♂️ A software developer with over four years of experience leading teams. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
+🙇‍♂️ A software developer with over four years of experience in team leadership. At the moment I'm also a data science student at **[Lambda School](https://lambdaschool.com/)** nearing graduation.
 
 💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud computing, big data, surfing, yoga, and the great outdoors.
 
