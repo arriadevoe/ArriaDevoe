@@ -5,11 +5,11 @@
 
 ### Hello there, I'm Guillermo
 
-🙇‍♂️ A software developer with over four years of experience in multidisciplinary team leadership. I also recently graduated from **[Lambda School's](https://lambdaschool.com/courses/data-science)** Data Science & Computer Science Program and I'm officially looking for work.
+🙇‍♂️ A software developer with over four years of experience in high-impact team leadership. I graduated from **[Lambda School's](https://lambdaschool.com/courses/data-science)** Data Science & Computer Science Program and currently looking for full-time work.
 
 💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud computing, big data, surfing, yoga, and the great outdoors.
 
-🏡 What I'm doing now: collaborating with Family Promise of Spokane to reduce family homelessness in Washington state. Our team is modernizing the guest intake system with executive dashboards, implementing machine learning to better direct guest resources, and building an API for partner organizations to securely access historical guest data.
+🏡 What I'm doing now: collaborating with Family Promise of Spokane to reduce family homelessness in Washington state. Our team is modernizing the organization's guest intake system with executive dashboards, overseeing the implementation of machine learning to better direct guest resources, and building an API for partner organizations to safely access historical guest data.
 
 🌱 Portfolio: **[guillermoarriadevoe.com](https://guillermoarriadevoe.com/)**
 
