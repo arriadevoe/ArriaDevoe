@@ -5,7 +5,7 @@
 
 ### Hello there, I'm Guillermo
 
-🙇‍♂️ A software developer with over four years of experience in high-impact team leadership. I graduated from **[Lambda School's](https://lambdaschool.com/courses/data-science)** Data Science & Computer Science Program and currently looking for full-time work.
+🙇‍♂️ A software developer with over four years of experience in high-impact team leadership roles. Recently graduated from **[Lambda School's](https://lambdaschool.com/courses/data-science)** Data Science & Computer Science Program and now looking for full-time work.
 
 💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud computing, big data, surfing, yoga, and the great outdoors.
 
