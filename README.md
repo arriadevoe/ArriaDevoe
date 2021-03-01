@@ -7,7 +7,7 @@
 
 🙇‍♂️ A software developer with over four years of experience in high-impact team leadership roles. I graduated from **[Lambda School's](https://lambdaschool.com/courses/data-science)** Data Science & Computer Science Program and I'm looking for full-time work.
 
-💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud computing, big data, surfing, yoga, and the great outdoors.
+💙 Interested in: environmental conservation, forestry, design thinking, agile software development, cloud and serverless computing, surfing, yoga, and the great outdoors.
 
 🏡 What I'm doing now: collaborating with Family Promise of Spokane to reduce family homelessness in Washington state. Our team is modernizing the organization's guest intake system with executive dashboards, overseeing the implementation of machine learning to better direct guest resources, and building an API for partner organizations to safely access historical guest data.
 
